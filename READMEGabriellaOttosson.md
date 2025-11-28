@@ -11,5 +11,5 @@ Relationen mellan dessa är att en kund kan göra flera beställningar. En best�
 
 Detta är en övningsuppgift i kursen Databaser i yrkeshögskoleprogrammet _Cloud and IT-infrastructure specialist_.
 
-**Bild på ER-diagrammet:**
+<ins>**Bild på ER-diagrammet:**</ins>
 <img width="827" height="543" alt="er-diagram" src="https://github.com/user-attachments/assets/11a15f61-543a-42b7-9165-8ffa7f27b12d" />
